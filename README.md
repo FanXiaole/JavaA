@@ -1,4 +1,4 @@
-# CS109: Introduction to Computer Programming (JavaA) ☕️
+# CS109: Introduction to Java Programming (JavaA) ☕️
 
 This repository preserves my complete work for **JavaA**, the inaugural programming course of my university career. It marks the beginning of my lifelong partnership with code.
 
